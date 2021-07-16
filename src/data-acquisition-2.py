@@ -1,8 +1,10 @@
 import requests
+import os
+
 
 genres = ['hip-hop', 'classical', 'country', 'electronic', 'metal']
 
-n_pages = 10
+n_pages = 38
 
 
 def write_to_file(url, genre, i):

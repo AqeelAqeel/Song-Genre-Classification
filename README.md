@@ -6,18 +6,13 @@ Classify genres for music songs.
 
 Using music classification enables platforms to then generate recommendations to their customers (such as Spotify, Soundcloud) or simply as a product (for example, Shazam). Determining music genres is the first step in that direction. Machine Learning techniques have proved to be quite successful in extracting trends and patterns from a large data pool.
 
-**Objectives**:
 
-1. Attain audio files to classify them by genre. 
-
-2. Compare scores of sklearn library classifiers versus a CNN. 
-
-3. Building a CNN to classify song files by genre 
 
 ## Table of Contents
 
 
 1. [Overview](#Overview)
+    1. [Objectives](#Objectives)
     1. [Background](#Background)
     1. [The Data](#The-Data)
     1. [Project Goals](##Project-Goals)
@@ -32,6 +27,14 @@ Using music classification enables platforms to then generate recommendations to
 
 
 # Overview 
+
+## Objectives
+
+1. Attain audio files to classify them by genre 
+
+2. Compare scores of sklearn library classifiers 
+
+3. Building a CNN to classify song files by genre 
 
 ## Background
 
